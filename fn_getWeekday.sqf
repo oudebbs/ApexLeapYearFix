@@ -8,7 +8,7 @@ Author:
 	
 Last Modified:
 	
-	3/1/2019 ArmA 3 1.83 by [bbs]
+	3/1/2019 ArmA 3 1.88 by [bbs]
 	
 Description:
 
